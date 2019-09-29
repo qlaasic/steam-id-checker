@@ -5,9 +5,9 @@ Make a new file called `input.txt`, and inside it put a list of the words you wa
 node index.js
 ```
 ## Errors
-If you recieve any of these errors
+If you recieve this error
 ```
-Error: Cannot find module 'moduename'
+Error: Cannot find module 'modulename'
 ```
 Open a powershell and run the following commands separately
 ```
