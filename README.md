@@ -1,4 +1,6 @@
 # SteamIDChecker
+Very simple tool to check large amounts of Steam IDs/URLs to see if they are claimable
+
 ## Usage
 Make a new file called `input.txt`, and inside it put a list of the words you want to be checked. From here, open up a terminal inside your directory and type the following command to start the checker.
 ```
