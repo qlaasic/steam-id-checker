@@ -11,3 +11,4 @@ npm install line-reader
 npm install steamapi
 npm install fs
 ```
+Then simply run the supplied .bat file.
