@@ -4,11 +4,7 @@ Make a new file called `input.txt`, and inside it put a list of the words you wa
 ```
 node index.js
 ```
-## Errors
-If you recieve this error
-```
-Error: Cannot find module 'modulename'
-```
+## Installation
 Open a powershell and run the following commands separately
 ```
 npm install line-reader
